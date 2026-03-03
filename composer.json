@@ -1,5 +1,5 @@
 {
-    "name": "setono/doctrine-orm-batcher",
+    "name": "webgriffe/doctrine-orm-batcher",
     "description": "A library for processing large collections in Doctrine",
     "license": "MIT",
     "type": "library",
@@ -54,5 +54,8 @@
         "check-style": "ecs check",
         "fix-style": "ecs check --fix",
         "phpunit": "phpunit"
+    },
+    "replace": {
+        "webgriffe/doctrine-orm-batcher": "*"
     }
 }
