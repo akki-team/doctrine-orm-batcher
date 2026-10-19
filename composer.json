@@ -56,6 +56,6 @@
         "phpunit": "phpunit"
     },
     "replace": {
-        "webgriffe/doctrine-orm-batcher": "*"
+        "setono/doctrine-orm-batcher": "*"
     }
 }
